@@ -59,8 +59,20 @@ Output:
 Tools: [{'name': 'greet', 'description': 'Greets the user', ...}]
 Response: {'message': 'Hello, Sri!'}
 ```
+You can run http://localhost:8000/events
+and you should see the heartbeat event being returned
+like the one shown below. 
 
+_data: {'event': 'heartbeat'}
+
+data: {'event': 'heartbeat'}
+_
+...
+
+
+****
 ---
+
 
 ## ⚙️ What It Demonstrates
 
