@@ -2,6 +2,8 @@
 
 This repository provides a minimal yet functional example of the **Model Context Protocol (MCP)** using Python. It demonstrates how a Large Language Model (LLM) agent can communicate with enterprise systems through a standardized client-server interface using **JSON-RPC** over **HTTP**, including support for **Server-Sent Events (SSE)**.
 
+You can read my blog to understand the subject better: https://srivatssan.medium.com/model-context-protocol-exhaustively-explained-f5a30a87a3ff?sk=1b971265640303c66b04377371c82102 
+
 ---
 
 ## 📦 Repository Structure
